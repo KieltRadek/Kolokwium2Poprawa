@@ -1,6 +1,6 @@
 using System.Text.Json;
 using Microsoft.EntityFrameworkCore;
-//using Kolokwium2.Controllers;
+using Kolokwium2.Controllers;
 using Kolokwium2.Data;
 
 var builder = WebApplication.CreateBuilder(args);
